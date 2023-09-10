@@ -38,7 +38,10 @@
 
 ![screenshot](./screenshot.png)
 
-Puedes ver el demo en <a href="https://carmenocotan.github.io/404-Not-Found/"> CarmenOcotan </a> este desafio esta hecho solamente con HTML y CSS, utilice media query para haccerlo escalable.
+<!-- Puedes ver el demo en <a href="https://carmenocotan.github.io/404-Not-Found/"> CarmenOcotan </a> este desafio esta hecho solamente con HTML y CSS, utilice media query para hacerlo escalable. -->
+
+You can see the demo at <a href="https://carmenocotan.github.io/404-Not-Found/"> CarmenOcotan </a> this challenge is made only with HTML and CSS, I used Media Queries to make it scalable
+
 
 
 ### Built With
